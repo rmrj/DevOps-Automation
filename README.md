@@ -54,10 +54,6 @@ Includes:
 
 ---
 
-For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
 ## 📂 Repository Structure
 
 ```plaintext
@@ -72,3 +68,14 @@ For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 ├── docs/                      # Markdown-based guides - Upcoming
 │   └── gke-c4-upgrade.md
 └── README.md
+```
+
+---
+
+For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
