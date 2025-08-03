@@ -68,17 +68,3 @@ Includes:
 ├── docs/                      # Markdown-based guides - Upcoming
 │   └── gke-c4-upgrade.md
 └── README.md
-
----
-
-## 📬 Contributing
-
-This repo is maintained by **Rama Raju Konuganti**.  
-If you’d like to collaborate or contribute scripts, feel free to open a pull request or issue.
-
-We welcome:
-
-- Enhancements to existing automation
-- New production-grade DevOps scripts or tools
-- Bug fixes and edge case handling
-- Improvements to documentation
