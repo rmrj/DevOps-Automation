@@ -21,8 +21,6 @@ Includes:
 - Dynamic PVC patching logic
 - Terraform snippets for official GKE module
 
-📖 **Full documentation:** [Read the upgrade strategy here](https://github.com/rmrj/DevOps-Automation/blob/main/docs/gke-c4-upgrade.md)
-
 ---
 
 ## 🚀 Upcoming Additions
@@ -65,9 +63,9 @@ Includes:
 │   ├── cordon.sh
 │   ├── drain.sh
 │   └── delete.sh
-├── terraform/                 # Terraform snippets and modules
+├── terraform/                 # Terraform snippets and modules - Upcoming
 │   └── gke-c4-nodepool.tf
-├── docs/                      # Markdown-based guides
+├── docs/                      # Markdown-based guides - Upcoming
 │   └── gke-c4-upgrade.md
 └── README.md
 
