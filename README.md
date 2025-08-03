@@ -1,7 +1,5 @@
 # DevOps-Automation
 
-# DevOps Automation
-
 This repository is a curated collection of real-world DevOps automation scripts, infrastructure-as-code (IaC) patterns, and migration blueprints designed to streamline Kubernetes, Terraform, CI/CD, cloud provisioning, and more.
 
 These tools are built for production-grade use, tested in real environments like Google Kubernetes Engine (GKE), AWS, and GitHub Actions, and structured to help teams accelerate their platform engineering efforts with confidence.
@@ -72,3 +70,7 @@ Includes:
 ├── docs/                      # Markdown-based guides
 │   └── gke-c4-upgrade.md
 └── README.md
+
+📬 Contributing
+
+This repo is maintained by Rama Raju Konuganti. If you’d like to collaborate or contribute scripts, feel free to open a pull request or issue.
