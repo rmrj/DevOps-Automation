@@ -54,6 +54,10 @@ Includes:
 
 ---
 
+For detailed contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
 ## 📂 Repository Structure
 
 ```plaintext
